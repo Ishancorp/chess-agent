@@ -4,7 +4,6 @@
 
 import {
   boardToFEN,
-  getLegalMoves,
   applyMove,
   isInCheck,
   parseAlgebraicMove,
