@@ -1,10 +1,10 @@
 import './App.css';
-import ChessTerminal from './chess_files/ChessTerminal';
+import ChessAgents from './ChessAgent';
 
 function App() {
   return (
     <div className="App">
-      <ChessTerminal/>
+      <ChessAgents/>
     </div>
   );
 }
